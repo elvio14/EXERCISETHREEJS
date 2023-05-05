@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "deploy": "vercel --prod",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "lil-gui": "^0.18.1",
+    "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
